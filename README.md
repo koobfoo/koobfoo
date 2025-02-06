@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on https://github.com/kubernetes/kubernetes
-- 🌱 I’m currently learning https://github.com/kubernetes/kubernetes
-- 👯 I’m looking to collaborate on https://github.com/kubernetes/kubernetes
-- 💬 Ask me about https://github.com/kubernetes/kubernetes
-- 📫 How to reach me: https://x.com/koobfoo
+- 🔭 I’m currently working on: [Kubernetes](https://github.com/kubernetes/kubernetes)
+- 🌱 I’m currently learning: [Kubernetes](https://github.com/kubernetes/kubernetes)
+- 👯 I’m looking to collaborate on: [Kubernetes](https://github.com/kubernetes/kubernetes)
+- 💬 Ask me about: [Kubernetes](https://github.com/kubernetes/kubernetes)
+- 📫 Reach me on: [Kuberenetes Slack](https://kubernetes.slack.com/team/U088LRNE1S4)
+- 🦣 I post on: [@koobfoo@k8s.social](https://k8s.social/@koobfoo)
