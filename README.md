@@ -1,22 +1,12 @@
-## Hello, World! 👋
+## Hi there, I'm Philip 👋
+🛠️ SRE/DevOps | System Administrator | CNCF Zealot
 
-<!--
-**koobfoo/koobfoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have an old-school background in traditional System Administration, first using RedHat Linux & FreeBSD in 1999. As a System Administrator I have overseen the management of essential infrastructure components, including Backup, Database, Mail, and Web servers, among others, serving as the workhorses of the internet. In my current position, I handle DevOps responsibilities, looking to “automate all the things” with a very strong interest in Kubernetes & CNCF technologies.
 
-Here are some ideas to get you started:
+In my free time, I am a perpetual student always learning. I also chair a community BMX/Dirt bike jump park [dirtti.org](https://dirtti.org) in Joenssu, Finland.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on: [Kubernetes](https://github.com/kubernetes/kubernetes)
-- 🌱 I’m currently learning: [Kubernetes](https://github.com/kubernetes/kubernetes)
-- 👯 I’m looking to collaborate on: [Kubernetes](https://github.com/kubernetes/kubernetes)
-- 💬 Ask me about: [Kubernetes](https://github.com/kubernetes/kubernetes)
-- 📫 Reach me on: [Kuberenetes Slack](https://kubernetes.slack.com/team/U088LRNE1S4)
-- 🦣 I post on: [@koobfoo@k8s.social](https://k8s.social/@koobfoo)
+## 🔗 Connect with me
+👔 [LinkedIn](https://www.linkedin.com/in/koobfoo)
+🐦 [x.com](https://x.com/koob_foo)
+💬 [Kuberenetes Slack](https://app.slack.com/client/T09NY5SBT/C4NV3DWUC)
+
